@@ -1,3 +1,8 @@
+## Installation
+```
+npm install shadowsocks-client-lib-js --save
+```
+
 ## Example
 
 ```javascript
